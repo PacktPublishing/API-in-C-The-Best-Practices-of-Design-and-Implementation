@@ -1,0 +1,1 @@
+http://www.engineerspock.com/2016/03/17/money-type-as-value-object-or-dont-rely-on-primitive-types/
